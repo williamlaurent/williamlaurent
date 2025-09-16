@@ -50,7 +50,5 @@ I specialize in identifying vulnerabilities, securing systems, and sharing knowl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=williamlaurent&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamlaurent&theme=radical" alt="GitHub Streak" />
-  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=williamlaurent&theme=radical" alt="GitHub Trophies" />
 </div>
