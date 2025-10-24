@@ -1,59 +1,53 @@
-# 👋 Yo, I'm Willmet  
-*(just another guy pressing F12 like it’s an art form)*  
+# 🍜 yo, i'm willmet  
 
-Welcome to my little corner of GitHub — where commits go to die, branches multiply like rabbits,  
-and README files try their best to sound deep.  
-
-I break things, fix them, and then act like I knew what I was doing the whole time.  
-If it works, don’t ask why. If it doesn’t, also don’t ask why.
+just another background character trying to get main character arc.  
+surviving on caffeine, internet, and questionable life choices.  
 
 ---
 
-## 🧠 Skill Issues (a.k.a. my tools)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" />
-</div>
-
-> yes, I know what these do. no, I won’t explain them.
+## 🌸 daily activities
+- staring at screen for 8 hours and calling it “progress”  
+- listening to anime openings like it’s therapy  
+- saying “i’ll sleep early” then not doing that  
+- using dark mode because light mode attacks my soul  
 
 ---
 
-## 🧾 Latest Brain Dumps
-
-- [Bypass OTP Rate Limit via Aliases Gmail](https://magazine.kid.or.id/cybersecurity/write-up/bypass-otp-rate-limit-via-aliases-gmail/) — aka “how to annoy a developer responsibly”
-- [Abuse Endpoint OTP → Email Flooding](https://magazine.kid.or.id/cybersecurity/abuse-endpoint-otp-to-email-flooding/) — chaos as a service
-- [Free OSINT Ezine](https://github.com/williamlaurent/osint-icp-ezine) — for when stalking is rebranded as “research”
+## 🎭 personality stats
+> alignment: chaotic neutral  
+> favorite element: instant ramen  
+> main quest: find motivation  
+> side quest: make things that may or may not work  
 
 ---
 
-## 🔗 Stalk Me (socially acceptable edition)
+## 🧃 current mood
+> “i could be productive...  
+> or i could watch another episode.”  
+– *me, every night since 2017*
+
+---
+
+## 📡 where i respawn
 
 <div align="center">
   <a href="https://dev.to/manadoghost">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/dev.to-242424?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/willmet">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/willmet_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-FF66AA?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-> follow me for occasional code, existential dread, and cursed memes.
+> find me there.  
+> or don’t. free will exists (i think).
 
 ---
 
-## 📉 GitHub Stats (a.k.a. proof I open VSCode sometimes)
+## 🪩 stats from my isekai arc
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=williamlaurent&show_icons=true&theme=radical" />
@@ -61,17 +55,18 @@ If it works, don’t ask why. If it doesn’t, also don’t ask why.
   <img src="https://github-profile-trophy.vercel.app/?username=williamlaurent&theme=radical" />
 </div>
 
-> “I'll fix that later.” — *me, 6 months ago*
+> “my code works... in another timeline.”
 
 ---
 
-### 💤 Fun Facts
-- I commit at 3AM because inspiration only strikes when I should be sleeping.  
-- My code works on my machine™  
-- Dark mode or it didn’t happen.  
-- I have trust issues with `npm install`.
+## 💬 final words
+life’s like a filler episode —  
+you don’t know why it’s happening,  
+but you just vibe with it anyway.
 
 ---
 
-**Thanks for scrolling this far.**  
-Now go do something productive. Or don’t. I’m not your boss.
+### 🧘‍♂️
+thanks for scrolling this far.  
+take a sip of water. touch some grass.  
+or don’t. grass is scary.
