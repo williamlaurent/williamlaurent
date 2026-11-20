@@ -1,20 +1,17 @@
-# 🌸 hi, i'm willmet 🌸  
+# hi, i'm willmet
 
-✨ just a sleepy soul on the internet ✨  
-🌙 sometimes i make things, sometimes i just vibe  
+based in Indonesia.  
 
----
-
-## ☁️ current mood  
-🫖 sipping tea i forgot i made  
-💤 pretending to be productive  
-🌸 daydreaming in between tabs  
+part-time bug bounty hunter, penetration tester, red teamer. when i'm not breaking things, i'm probably playing minecraft or drinking way too much coffee.
 
 ---
 
-## 🪷 socials  
-[💌 instagram](https://www.instagram.com/willmet_) • [🧠 linkedin](https://www.linkedin.com/in/willmet) • [📜 dev.to](https://dev.to/manadoghost)  
+### status
+currently taking it slow. the internet is flooded with way too much AI slop lately, which makes everything feel pretty dull and uninspiring. mostly just lurking, brewing coffee, and waiting for things to get interesting again.
 
 ---
 
-> 🌈 “maybe it’s not about bugs, maybe it’s about the friends we made along the way.”  
+### links
+- [instagram](https://www.instagram.com/willmet_)
+- [linkedin](https://www.linkedin.com/in/willmet)
+- [dev.to](https://dev.to/manadoghost)
